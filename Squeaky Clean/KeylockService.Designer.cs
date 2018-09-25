@@ -1,6 +1,6 @@
 ﻿namespace Squeaky_Clean
 {
-    partial class Service1
+    partial class KeylockService
     {
         /// <summary> 
         /// Required designer variable.

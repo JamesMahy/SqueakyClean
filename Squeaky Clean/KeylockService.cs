@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace Squeaky_Clean
 {
-    public partial class Service1 : ServiceBase
+    public partial class KeylockService : ServiceBase
     {
-        public Service1()
+        public KeylockService()
         {
             InitializeComponent();
         }
