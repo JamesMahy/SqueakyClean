@@ -1,2 +1,4 @@
 # SqueakyClean
-Windows lock screens so you can clean your keyboard
+This is currently under development! please ignore!
+
+
